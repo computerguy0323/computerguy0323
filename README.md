@@ -3,9 +3,18 @@
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-Hello, im computerguy0323! I currently make games in Roblox Studio, and you can check out my profile on the links section! What I am working on is a Github Pages site for NOVETUS, a open-source old ROBLOX client with many versions. The Github page is for a server list for NOVETUS!
+** Langauges I Use! **
 
-that was what i was previously working on.
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+
+[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+
+
+Hello, im computerguy0323! I currently make games in Roblox Studio, and you can check out my profile on the links section!
 
 IM CURRENTLY WORKING ON A BATCH GAME MAKER! ALL CODE WILL BE HOSTED HERE AND AT THEPUTERGUY999.ITCH.IO
 
