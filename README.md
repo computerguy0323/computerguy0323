@@ -13,6 +13,8 @@
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+
 
 Hello :wave: , im computerguy0323! I currently make games in Roblox Studio, and you can check out my profile on the links section!
 
