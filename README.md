@@ -20,5 +20,5 @@ Hello :wave: , im computerguy0323! I currently make games in Roblox Studio, and 
 
 IM CURRENTLY WORKING ON A BATCH GAME MAKER! ALL CODE WILL BE HOSTED HERE AND AT THEPUTERGUY999.ITCH.IO
 
-(just so u know, i will always keep my old descriptions so you can dive into the past about me)
+
 -Computerguy0323
