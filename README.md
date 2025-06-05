@@ -14,7 +14,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 
 
-Hello, im computerguy0323! I currently make games in Roblox Studio, and you can check out my profile on the links section!
+Hello :wave: , im computerguy0323! I currently make games in Roblox Studio, and you can check out my profile on the links section!
 
 IM CURRENTLY WORKING ON A BATCH GAME MAKER! ALL CODE WILL BE HOSTED HERE AND AT THEPUTERGUY999.ITCH.IO
 
