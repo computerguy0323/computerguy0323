@@ -26,10 +26,10 @@ w# PLEASE HELP ME GET STARSTRUCK BY STARRING MY REPO BELOW "batch-game-maker"
 **My Profile Stats!**
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=computerguy0323&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=computerguy0323&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 helo! :wave: , i am nolan aka computerguy0323 and im 11 and i liek to coed! i uses the languauges batch  
