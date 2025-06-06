@@ -1,4 +1,4 @@
-# PLEASE HELP ME GET STARSTRUCK BY STARRING MY REPO BELOW "batch-game-maker"
+w# PLEASE HELP ME GET STARSTRUCK BY STARRING MY REPO BELOW "batch-game-maker"
 **OS's I use!**
 
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
@@ -23,8 +23,16 @@
 
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 
+**My Profile Stats!**
 
-Hello :wave: , im computerguy0323! I currently make games in Roblox Studio, and you can check out my profile on the links section!
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+helo! :wave: , i am nolan aka computerguy0323 and im 11 and i liek to coed! i uses the languauges batch  
 
 IM CURRENTLY WORKING ON A BATCH GAME MAKER! ALL CODE WILL BE HOSTED HERE AND AT THEPUTERGUY999.ITCH.IO
 
