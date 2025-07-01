@@ -26,8 +26,7 @@
 **My Profile Stats!**
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=computerguy0323&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+![computerguy0323's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=computerguy0323&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![computerguy0323's Stats](https://github-readme-stats.vercel.app/api?username=computerguy0323&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
