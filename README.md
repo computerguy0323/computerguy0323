@@ -29,7 +29,7 @@
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=computerguy0323&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=computerguy0323&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![computerguy0323's Stats](https://github-readme-stats.vercel.app/api?username=computerguy0323&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 helo! :wave: , i am nolan aka computerguy0323 and im 11 and i liek to coed! i uses the languauges batch  
