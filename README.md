@@ -35,7 +35,7 @@
 
 helo! :wave: , i am nolan aka computerguy0323 and im 11 and i liek to coed! i uses the languauges batch  
 
-IM CURRENTLY WORKING ON A BATCH GAME MAKER! ALL CODE WILL BE HOSTED HERE AND AT THEPUTERGUY999.ITCH.IO
+IM CURRENTLY WORKING ON A BATCH GAME MAKER! ALL CODE WILL BE HOSTED HERE AND AT [THEPUTERGUY999.ITCH.IO](https://thecomputerguy999.itch.io/)
 
 
 -Computerguy0323
