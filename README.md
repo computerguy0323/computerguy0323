@@ -1,4 +1,3 @@
-# PLEASE HELP ME GET STARSTRUCK BY STARRING MY REPO BELOW "batch-game-maker"
 **OS's I use!**
 
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
